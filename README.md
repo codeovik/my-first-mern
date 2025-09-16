@@ -17,7 +17,7 @@ This is a full-stack project built with **React (Vite)** on the frontend and **E
 ### To run this project localy:
 Clone Repository
 ``` bash
-kkk
+git clone https://github.com/codeovik/my-first-mern.git
 ```
 
 Go root directory
